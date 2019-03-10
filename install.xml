@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" type="language" client="administrator" method="upgrade">
+  <name>German (DE-CH-AT) language for Simple Image Gallery Pro</name>
+  <author>w-55</author>
+  <authorEmail />
+  <authorUrl>http://www.joomlaportal.de/members/68824.html</authorUrl>
+  <creationDate>September 18, 2013</creationDate>
+  <copyright>Copyright (c) 2013 w-55. All rights reserved.</copyright>
+  <license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+  <version>2.5.0</version>
+  <description>German (Germany) filename pack for Simple Image Gallery Pro</description>
+  <tag>de-DE</tag>
+    <files>
+        <filename>de-DE.com_sigpro.ini</filename>
+        <filename>de-DE.com_sigpro.menu.ini</filename>
+        <filename>de-DE.com_sigpro.sys.ini</filename>
+        <filename>de-DE.plg_content_jw_sigpro.ini</filename>
+        <filename>de-DE.plg_content_jw_sigpro.sys.ini</filename>
+        <filename>de-DE.plg_editors-xtd_jw_sigpro.ini</filename>
+        <filename>de-DE.plg_editors-xtd_jw_sigpro.sys.ini</filename>
+        <filename>de-DE.plg_k2_jw_sigpro.ini</filename>
+        <filename>de-DE.plg_k2_jw_sigpro.sys.ini</filename>
+    </files>
+</extension>

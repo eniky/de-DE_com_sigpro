@@ -1,0 +1,1 @@
+# Simple Image Galerie Pro - Sprachdatei Deutsch
